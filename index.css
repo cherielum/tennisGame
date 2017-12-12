@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+#pingpong{
+    margin-left: 10px;
+}
+
+h1 {
+    color: white;
+    justify-content: center;
+    display: flex;
+    font-family: arial; 
+    font-size: 50px;
+    margin-bottom: -15px;
+
+}
+
+p {
+    color: rgb(66, 61, 61);
+    justify-content: center;
+    display: flex;
+    font-family: arial; 
+    font-size: 30px;
+    margin: 25px; 
+   
+}
+#game {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
